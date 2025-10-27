@@ -153,14 +153,6 @@ onMounted(() => {
     delay: 600,
     opacity: 0
   })
-
-  sr.reveal(heroImage.value, {
-    duration: 1200,
-    distance: '60px',
-    origin: 'right',
-    delay: 300,
-    opacity: 0
-  })
 })
 </script>
 
